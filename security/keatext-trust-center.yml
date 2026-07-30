@@ -1,0 +1,25 @@
+generated: '2026-07-19'
+method: searched
+probe: false
+source: https://keatext.ai/en/security/
+url: https://keatext.ai/en/security/
+note: >-
+  No dedicated trust.keatext.ai portal; the public /en/security/ page is the
+  security & compliance posture page. Named certifications captured verbatim.
+certifications:
+  - SOC 2
+  - ISO 27001
+  - ISO 27017
+  - ISO 27018
+  - GDPR
+  - HIPAA-aligned
+infrastructure:
+  hosting: Amazon Web Services (US East / Northern Virginia)
+  payments: Stripe (card data never touches Keatext servers)
+  encryption_in_transit: TLS/SSL
+  password_storage: one-way hash
+  backups: Amazon RDS daily encrypted backups
+  data_deletion: full erasure within 30 days of deletion
+evidence:
+  - source: https://keatext.ai/en/security/
+    keywords: [soc 2, iso 27001, iso 27017, iso 27018, gdpr, hipaa, owasp]

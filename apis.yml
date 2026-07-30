@@ -1,8 +1,32 @@
 aid: keatext
 name: Keatext
-description: Keatext is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Keatext is a Montreal-based AI text analytics platform that unifies customer
+  feedback from surveys, online reviews, and support tickets into a single
+  dashboard and produces AI-generated reports identifying themes, sentiment,
+  satisfaction drivers, and blind spots. It is purpose-built for customer
+  experience (CX) teams, surfacing prioritized, actionable recommendations to
+  improve CSAT and reduce churn. Keatext integrates natively with feedback and
+  service platforms including SurveyMonkey, Zendesk, QuestionPro, Alchemer,
+  ServiceNow, Qualtrics, Intercom, Salesforce, and Yotpo, and connects to 400+
+  additional systems through the Tray.io integration platform. Customers include
+  Intuit, Lenovo, Hilton, and COOLA. The company does not publish a public
+  developer REST API or OpenAPI; custom integration is handled via Tray.io and
+  direct partner engagement. Added to the API Evangelist network as a 500 Global
+  portfolio company.
 url: https://raw.githubusercontent.com/api-evangelist/keatext/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://keatext.ai/wp-content/uploads/2026/05/AI-powered-customer-feedback-insights.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +35,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Text Analytics
+- Customer Experience
+- Customer Feedback
+- Sentiment Analysis
+- Artificial Intelligence
+- Natural Language Processing
+- Voice of Customer
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +55,34 @@ maintainers:
 common:
 - type: Website
   url: https://keatext.ai
+- type: Portal
+  url: https://keatext.ai/en/our-platform/
+- type: Support
+  url: https://help.keatext.ai/en/
+- type: Blog
+  url: https://keatext.ai/en/blog/
+- type: Pricing
+  url: https://keatext.ai/en/pricing/
+- type: SignUp
+  url: https://keatext.ai/en/request-a-demo/
+- type: PrivacyPolicy
+  url: https://keatext.ai/en/privacy/
+- type: TermsOfService
+  url: https://keatext.ai/en/terms-and-conditions/
+- type: Integrations
+  url: https://keatext.ai/en/integrations/
+- type: LinkedIn
+  url: https://linkedin.com/company/keatext
+- type: Compliance
+  url: https://keatext.ai/en/security/
+- type: TrustCenter
+  url: security/keatext-trust-center.yml
+- type: Conformance
+  url: conformance/keatext-conformance.yml
+- type: DomainSecurity
+  url: security/keatext-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

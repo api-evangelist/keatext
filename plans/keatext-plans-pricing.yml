@@ -1,0 +1,55 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.keatext.ai/en/pricing/
+sources:
+- https://www.keatext.ai/en/pricing/
+- https://keatext.ai/en/pricing/
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: tiered-subscription
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: CX analytics SaaS pricing page with three monthly tiers plus two add-ons; record volumes are annual
+  caps. Free 2-week Proof of Concept mentioned, no credit card required.
+plan_count: 5
+currency: USD
+plans:
+- name: Basic
+  price_text: $550 USD /monthly
+  price: 550
+  currency: USD
+  period: month
+  included_quota: Up to 10,000 records (annual), One dashboard, Data exploration, CSV integration
+- name: Pro
+  price_text: $999 USD /monthly
+  price: 999
+  currency: USD
+  period: month
+  included_quota: Up to 20,000 records (annual), One dashboard, dashboard editing/sharing, knowledge management,
+    multi-language, CSV integration
+- name: Enterprise
+  price_text: From $1650 USD /monthly
+  price: 1650
+  currency: USD
+  period: month
+  included_quota: 30,000 records and up (annual), Unlimited dashboards, expert access, data enrichment,
+    focus recommendations, report generation
+- name: Data Acquisition (add-on)
+  price_text: From $250 USD /monthly
+  price: 250
+  currency: USD
+  period: month
+  included_quota: Collection, preparation, and duplication removal from more than 100 review sites
+- name: Data Connectors (add-on)
+  price_text: From $150 USD /monthly
+  price: 150
+  currency: USD
+  period: month
+  included_quota: Integrations with feedback collection platforms

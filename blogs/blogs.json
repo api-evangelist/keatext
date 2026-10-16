@@ -2,10 +2,13 @@
   "repo": "keatext",
   "feeds": [
     {
-      "source": "https://help.keatext.ai/en/",
-      "error": "URLError"
+      "source": "https://keatext.ai/en/blog/",
+      "feed_url": "https://keatext.ai/en/blog/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "fetched": "2026-10-10T13:15:00Z"
 }

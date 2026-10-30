@@ -64,6 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Keatext is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Keatext is a Montreal-based AI text analytics platform that unifies customer feedback from surveys, online reviews, and support tickets into a single dashboard and produces AI-generated reports identifying themes, sentiment, satisfaction drivers, and blind spots. It is purpose-built for customer experience (CX) teams, surfacing prioritized, actionable recommendations to improve CSAT and reduce churn. Keatext integrates natively with feedback and service platforms including SurveyMonkey, Zendesk, QuestionPro, Alchemer, ServiceNow, Qualtrics, Intercom, Salesforce, and Yotpo, and connects to 400+ additional systems through the Tray.io integration platform. Customers include Intuit, Lenovo, Hilton, and COOLA. The company does not publish a public developer REST API or OpenAPI; custom integration is handled via Tray.io and direct partner engagement. Added to the API Evangelist network as a 500 Global portfolio company.
 
-Backed by: 500-global — https://keatext.ai
+**Areas:** Company · Text Analytics · Customer Experience · Customer Feedback · Sentiment Analysis · Artificial Intelligence · Natural Language Processing · Voice of Customer · Software-as-a-Service
+
+## Keatext on APIs.io
+
+Everything profiled for Keatext is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/keatext/](https://apis.io/providers/keatext/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Keatext Domain Security](https://apis.io/security/keatext/keatext-domain-security/)
+- [Keatext Trust Center](https://apis.io/security/keatext/keatext-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Keatext Plans Pricing](https://apis.io/plans/keatext/keatext-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://keatext.ai)
+- [Pricing](https://keatext.ai/en/pricing/)
+- [Sign up](https://keatext.ai/en/request-a-demo/)
+- [Support](https://help.keatext.ai/en/)
+- [Blog](https://keatext.ai/en/blog/)
+- [Compliance](https://keatext.ai/en/security/)
+- [Terms of service](https://keatext.ai/en/terms-and-conditions/)
+- [Privacy policy](https://keatext.ai/en/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 21.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 60.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 14.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/keatext/](https://apis.io/providers/keatext/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Keatext: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/keatext/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
